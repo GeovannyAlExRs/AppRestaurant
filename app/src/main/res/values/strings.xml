@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chifa Amistoso</string>
+    <string name="search">Buscar...</string>
+    <string name="meal_categories">Categorias</string>
+</resources>
